@@ -34,6 +34,4 @@ http://localhost/player/?url=https://cdn.jsdelivr.net/gh/xxx/Video-Bed/Your.Name
 
 http://localhost/player/?url=https://cdn.jsdelivr.net/gh/xxx/Video-Bed/Your.Name/playlist.m3u8&next=https://cdn.jsdelivr.net/gh/xxx/Video-Bed/Your.Name/playlist.m3u8&sid=1&pic=https://img.xx.com/1.png&user=游客&group=1&name=测试
 
-# 捐赠链接
-<img src="https://img.ssss.loan/pos.png" alt="捐赠" width="300" title="捐赠二维码">
-<img src="https://img.ssss.loan/ipos.png" alt="捐赠" width="300" title="捐赠二维码">
+
